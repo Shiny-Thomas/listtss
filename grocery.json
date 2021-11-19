@@ -1,0 +1,94 @@
+{
+    "grocery":[
+        {
+            "SLNO":"1",
+            "NAME":"Milk",
+            "QUANTITY":"2",
+            "UNIT":"litre",
+            "DEPARTMENT":"Dairy",
+            "NOTES":"Fresh milk"
+        },
+        {
+            "SLNO":"2",
+            "NAME":"Rice",
+            "QUANTITY":"5",
+            "UNIT":"kg",
+            "DEPARTMENT":"Grains",
+            "NOTES":"Pavizham"
+            
+        },
+        {
+            "SLNO":"3",
+            "NAME":"Egg",
+            "QUANTITY":"10",
+            "UNIT":"pieces",
+            "DEPARTMENT":"Protein",
+            "NOTES":"eggs(hen)"
+            
+        },
+        {
+            "SLNO":"4",
+            "NAME":"Tomato",
+            "QUANTITY":"2",
+            "UNIT":"kg",
+            "DEPARTMENT":"Vegetables",
+            "NOTES":"Fresh vegetables"
+            
+        },
+        {
+            "SLNO":"5",
+            "NAME":"Urid dal",
+            "QUANTITY":"3",
+            "UNIT":"kg",
+            "DEPARTMENT":"Pulses",
+            "NOTES":"Packet"
+            
+        },
+        {
+            "SLNO":"6",
+            "NAME":"Dal",
+            "QUANTITY":"2",
+            "UNIT":"kg",
+            "DEPARTMENT":"Pulses",
+            "NOTES":"Sambar dal"
+            
+        },
+        {
+            "SLNO":"7",
+            "NAME":"Oats",
+            "QUANTITY":"1",
+            "UNIT":"packet",
+            "DEPARTMENT":"Pulses",
+            "NOTES":"Quaker oats"
+            
+        },
+        {
+            "SLNO":"8",
+            "NAME":"Basmati rice",
+            "QUANTITY":"2",
+            "UNIT":"kg",
+            "DEPARTMENT":"Grains",
+            "NOTES":"India gate"
+            
+        },
+        {
+            "SLNO":"9",
+            "NAME":"Potatoes",
+            "QUANTITY":"1",
+            "UNIT":"kg",
+            "DEPARTMENT":"Vegetable",
+            "NOTES":"Farm fresh"
+            
+        },
+        {
+            "SLNO":"10",
+            "NAME":"Chicken",
+            "QUANTITY":"2",
+            "UNIT":"kg",
+            "DEPARTMENT":"Poultry",
+            "NOTES":"Nadan chicken"
+            
+        }
+
+        ]
+}
